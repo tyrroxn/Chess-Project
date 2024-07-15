@@ -9,6 +9,9 @@
 
 #ifndef MY_H_
     #define MY_H_
-    #include "macro.h"
+    #include "macro.hpp"
     #include <iostream>
+    #include <string>
+    #include <cstring>
 #endif
+

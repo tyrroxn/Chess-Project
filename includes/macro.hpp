@@ -1,6 +1,6 @@
 /*
 ** EPITECH PROJECT, 2024
-** project
+** project_chess
 ** File description:
 ** macro
 */

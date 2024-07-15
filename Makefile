@@ -20,7 +20,7 @@ NAME_CRIT	=	unit_tests
 
 CFLAGS	=	-I./includes/
 
-CPPFLAGS = -Wall -Wextra -Werror -std=c++17
+CPPFLAGS = -Wall -Wextra -Werror -std=c++20
 
 LDLIB	=	-lcriterion --coverage
 
